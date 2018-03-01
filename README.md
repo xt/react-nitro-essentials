@@ -4,26 +4,6 @@ Inspired by John Papa's [Angular Essentials](https://marketplace.visualstudio.co
 
 ## Recommended Settings
 
-File settings
-
-```json
-	"files.autoSave": "afterDelay",
-	"files.autoSaveDelay": 2000,
-	"files.exclude": {
-		"**/.git": true,
-		"**/.DS_Store": true,
-		"**/*.js": {
-			"when": "$(basename).ts"
-		},
-		"**/*.js.map": {
-			"when": "$(basename)"
-		}
-	},
-	"files.hotExit": "onExit",
-	"files.defaultLanguage": "typescript",
-	"files.trimTrailingWhitespace": true,  
-```
-
 Prettier settings
 
 ```json
