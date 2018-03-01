@@ -26,6 +26,7 @@
   "extensionDependencies": [
     "areai51.react-nitro-snippets",
     "EditorConfig.EditorConfig",
+    "wix.vscode-import-cost",
     "dbaeumer.vscode-eslint",
     "msjsdiag.debugger-for-chrome",
     "christian-kohler.path-intellisense",

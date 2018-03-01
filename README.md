@@ -21,6 +21,8 @@ Here is the list of extensions the pack includes:
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) VS Code plugin for prettier/prettier, which formats code consistently
 
+[Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. Great for maintaining consistent editor settings.
 
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code debugger for Chrome.
