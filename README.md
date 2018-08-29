@@ -35,3 +35,9 @@ Start by typing `rn-` to get a full list of code snippets for React.
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - VS Code debugger for Chrome.
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames. Hopefully, VS Code will bake this in at some point. Until then, this is a keeper.
+
+[Sonar Lint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) - SonarLint helps you detect and fix quality issues as you write code. SonarLint squiggles flaws so they can be fixed before committing code.
+
+![Sonar Lint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-rule-description.gif)
+
+[Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Git lens helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands.

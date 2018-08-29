@@ -17,12 +17,20 @@
     "type": "git",
     "url": "https://github.com/xt/react-nitro-essentials.git"
   },
-  "keywords": ["React", "JSX", "Redux", "Mobx", "HTML"],
-  "version": "1.0.1",
+  "keywords": [
+    "React",
+    "JSX",
+    "Redux",
+    "Mobx",
+    "HTML"
+  ],
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.12.0"
   },
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "extensionDependencies": [
     "areai51.react-nitro-snippets",
     "EditorConfig.EditorConfig",
@@ -30,6 +38,8 @@
     "dbaeumer.vscode-eslint",
     "msjsdiag.debugger-for-chrome",
     "christian-kohler.path-intellisense",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "sonarsource.sonarlint-vscode",
+    "eamodio.gitlens"
   ]
 }
